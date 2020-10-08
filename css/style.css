@@ -198,7 +198,7 @@ preferences to reduce motion.*/
   .skip a{
     -webkit-transition: none; /* sets to default setting */
     transition: none;        /* sets to default setting */
-   }
+  }
 
   /*Turn off parallax*/
   header{
